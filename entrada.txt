@@ -1,0 +1,2 @@
+A,B;B,C;C,D;D,E;E,F;F,I;I,H;H,G;G,C
+G,I;H
